@@ -1,0 +1,25 @@
+######################
+서비스 활성화
+######################
+
+
+프로젝트 생성
+=====================
+
+1. `TOAST Console <https://console.toast.com>`_ 접속
+
+2. TOAST Console 상단 대시보드에서 새 프로젝트 생성
+
+
+서비스 활성화
+=====================
+
+1. TOAST Console 상단 **서비스 선택** 선택
+
+2. Game 항목 **Smart Downloader** 선택
+
+    .. image:: _static/image/project-service-select.png
+
+3. 서비스 활성화 팝업에서 정보 확인 후 **확인** 선택
+
+    .. image:: _static/image/project-service-active.png

@@ -1,0 +1,14 @@
+######################
+CDN 연동
+######################
+
+1. 서비스를 생성하면 CDN 연동 단계로 이동
+
+2. **Smart Downloader CDN 연동** 선택
+
+    .. image:: _static/image/service-cdn-01.png
+
+3. CDN 서비스 생성 팝업이 출력되고 **등록** 선택
+(설정을 변경하려면 `가이드 <http://docs.toast.com/ko/Game/Smart%20Downloader/ko/console-guide/#2-cdn>`_\를 확인 바랍니다.)
+
+      .. image:: _static/image/service-cdn-02.png

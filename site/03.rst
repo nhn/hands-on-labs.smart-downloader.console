@@ -1,0 +1,20 @@
+######################
+서비스 등록
+######################
+
+.. warning::
+    
+    서비스 등록 및 빌드가 업데이트된 경우에는 CDN 연동 전이라도 기본형의 기본 요금이 부과됩니다.
+    요금 부과를 원치 않는다면 서비스 등록 후 1시간 안으로 서비스를 삭제하시길 바랍니다.
+
+1. TOAST Console 좌측에서 **Game > Smart Downloader** 선택
+
+    .. image:: _static/image/service-select.png
+
+2. Smart Downloader 서비스 관리 화면에서 **서비스 등록** 선택
+
+    .. image:: _static/image/service-regist-01.png
+
+3. 서비스 등록 화면에서 **서비스 이름**\ 과 서비스 설명을 입력 후 **서비스 등록** 선택
+
+    .. image:: _static/image/service-regist-02.png

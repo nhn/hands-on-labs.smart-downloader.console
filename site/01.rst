@@ -1,0 +1,20 @@
+****
+개요
+****
+
+Smart Downloader 콘솔에서 서비스를 생성하고 리소스를 업로드 후 배포하는 방법에 대해 다룹니다.
+
+
+학습할 내용
+============
+
+* Smart Downloader 프로젝트 생성하기
+* Smart Downloader 서비스 생성하기
+* Smart Downloader CDN 연동하기
+* Smart Downloader 리소스 업로드하기
+* Smart Downloader 리소스 배포하기
+
+준비물
+===========
+
+* `TOAST 계정 <https://toast.com/>`_
