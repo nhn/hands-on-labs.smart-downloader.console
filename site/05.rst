@@ -11,11 +11,11 @@
 3. 업로드할 리소스가 있는 폴더를 선택
 
     .. image:: _static/image/service-upload-02.png
-
+    
 4. 업로드 완료 후 결과가 출력되면 확인 후 **완료** 선택
 
     .. image:: _static/image/service-upload-03.png
 
 5. 서비스 목록 화면으로 돌아가고 생성된 서비스 확인
 
-    .. image:: _static/image/service-upload-04.png
+    .. image:: _static/image/service-create-completed.png
